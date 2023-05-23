@@ -18,7 +18,7 @@ class Products extends BaseController
     }
     public function index()
     {
-
+  //
 
         // $data =  [
         //     ['id' => 1, 'description' => 'First Task'],
